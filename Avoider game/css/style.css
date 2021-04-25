@@ -1,0 +1,26 @@
+body {
+    background: #ff9c33;  
+    text-align: center; 
+    padding: 20px; 
+    color: #575757; 
+    font: 14px/21px Arial,Helvetica,sans-serif;
+}
+ 
+a {
+    color: #B93F14;
+}
+ 
+a:hover {
+    text-decoration: none;
+}
+ 
+ol {
+    width: 600px; 
+    text-align: left; 
+    margin: 15px auto
+}
+canvas {
+    border: 1px solid black;
+    cursor: none;  
+    background-image: url(https://thumbs.dreamstime.com/b/clear-blue-sky-plain-white-cloud-space-text-background-vast-clouds-tiny-nature-107385284.jpg)
+}
